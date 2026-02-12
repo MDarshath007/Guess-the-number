@@ -8,20 +8,20 @@ I built a simple interactive game using HTML, CSS, and JavaScript.
 
 <ul class="ul">
  <li>🔹 The computer generates a random number between 1 and 10 <\li>
- <li>🔹 The player enters a guess<\li>
- <li>🔹 If the guess is correct → You Win! 🎉 <\li>
- <li>🔹 If the guess is wrong → Score decreases<\li>
- <li>🔹 When the score reaches 0 → Game Over ❌<\li>
+ <li>🔹 The player enters a guess</li>
+ <li>🔹 If the guess is correct → You Win! 🎉 </li>
+ <li>🔹 If the guess is wrong → Score decreases</li>
+ <li>🔹 When the score reaches 0 → Game Over ❌</li>
 </ul>
   
 🧠 What I learned while building this:
 
 <ul class="ul">
-  <li>✔ DOM manipulation<\li>
-  <li>✔ Input handling<\li>
-  <li>✔ Conditional statements<\li>
-  <li>✔ Basic game logic<\li>
-  <li>✔ UI feedback and alert interactions<\li>
+  <li>✔ DOM manipulation</li>
+  <li>✔ Input handling</li>
+  <li>✔ Conditional statements</li>
+  <li>✔ Basic game logic</li>
+  <li>✔ UI feedback and alert interactions</li>
 </ul>
 
 <style>
