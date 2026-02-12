@@ -1,0 +1,59 @@
+* {
+    margin: 0%;
+    padding: 0px;
+}
+
+body {
+    background: linear-gradient(135deg, rgb(0, 0, 0), rgb(0, 0, 0));
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+
+.main {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(35deg, rgb(255, 230, 0), rgb(255, 0, 255));
+}
+
+h1 {
+    padding: 20px;
+    text-align: center;
+    position: relative;
+}
+
+.box {
+    background-color: white;
+    text-align: center;
+    display: inline-block;
+    padding: 30px;
+    border-radius: 50px;
+    box-shadow: 5px 5px 40px rgb(0, 0, 0);
+}
+
+#guessnumber {
+    font-weight: bolder;
+    border-radius: 15px;
+    border: solid 2px black;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    scroll-behavior: smooth;
+}
+
+button {
+    border-radius: 15px;
+    border: none;
+    font-weight: bolder;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 230, 115);
+    padding: 12px;
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+p {
+    text-align: center;
+    padding-top: 10px;
+}
