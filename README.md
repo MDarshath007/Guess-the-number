@@ -7,7 +7,7 @@ Screenshot of the project: <img width="1360" height="768" alt="Guess the Number 
 I built a simple interactive game using HTML, CSS, and JavaScript.
 
 <ul class="ul">
- <li>🔹 The computer generates a random number between 1 and 10 <\li>
+ <li>🔹 The computer generates a random number between 1 and 10 </li>
  <li>🔹 The player enters a guess</li>
  <li>🔹 If the guess is correct → You Win! 🎉 </li>
  <li>🔹 If the guess is wrong → Score decreases</li>
