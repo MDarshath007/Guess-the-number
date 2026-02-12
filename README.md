@@ -1,4 +1,3 @@
-<html>
  Live Demo: https://mdarshath007.github.io/Guess-the-number/
 
 Screenshot of the project: <img width="1360" height="768" alt="Guess the Number Screenshot " src="https://github.com/user-attachments/assets/b873b521-1751-49f0-9906-7a7ed557460c" />
@@ -24,12 +23,7 @@ I built a simple interactive game using HTML, CSS, and JavaScript.
   <li>✔ UI feedback and alert interactions</li>
 </ul>
 
-<style>
- .ul{
-  list-style-type: none;
- }
-</style>
-</html>
+
 
 
 
