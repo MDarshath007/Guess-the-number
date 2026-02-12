@@ -4,13 +4,14 @@ Screenshot of the project: <img width="1360" height="768" alt="Guess the Number 
 
 🚀 Just Completed a Fun Mini Project — Guess The Number Game! 🎮
 I built a simple interactive game using HTML, CSS, and JavaScript.
-
- 🔹 The computer generates a random number between 1 and 10
+<li>
+ 🔹 The computer generates a random number between 1 and 10 
  🔹 The player enters a guess
  🔹 If the guess is correct → You Win! 🎉
  🔹 If the guess is wrong → Score decreases
  🔹 When the score reaches 0 → Game Over ❌
- 
+</li>
+  
 🧠 What I learned while building this:
 
  ✔ DOM manipulation
